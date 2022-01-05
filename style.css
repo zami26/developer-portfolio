@@ -7,6 +7,7 @@ margin: 0;}
 height: 400px;}
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .half{width: 50%;}
 .half img{ width: 80%;
@@ -20,3 +21,11 @@ font-weight: 700px;}
 .top-banner{ 
     background-image: url(images/top-banner.png);
 background-repeat: no-repeat;}
+.image-edit{width: 20%;
+height: 35%;
+margin: 50px;}
+.second{padding-right: 100px;
+margin-left: 100px;}
+.big-dreem{background-image: url(images/dream-bg.png);
+background-repeat: no-repeat;
+background-position:right ;}
