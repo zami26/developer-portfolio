@@ -5,7 +5,7 @@ margin: 0;}
 .abcd{color: black;}
 .pic-added{width: 300px;
 height: 400px;}
-section{
+.flaxible-container{
     display: flex;
     margin-bottom: 100px;
 }
@@ -29,3 +29,16 @@ margin-left: 100px;}
 .big-dreem{background-image: url(images/dream-bg.png);
 background-repeat: no-repeat;
 background-position:right ;}
+.experience-area{background-image: url(images/exp-bg.png);
+background-repeat: no-repeat;}
+.shado{
+    box-shadow: 10px 10px 40px yellowgreen;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 40%;
+    padding-left: 10px;
+    border-left: 5px solid blue;
+}
+#border-color{border-left: 5px solid green;}
+footer p {text-align: center;
+font-size: 12px;}
